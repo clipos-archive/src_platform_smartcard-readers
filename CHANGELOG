@@ -1,0 +1,12 @@
+# CLIP ChangeLog for app-clip/smartcard-readers
+
+*smartcard-readers-0.0.1 (02 Fev 2011)
+  02 Fev 2011; Benjamin Morin <clipos@ssi.gouv.fr>
+  +smartcard-readers-0.0.2.ebuild -smartcard-readers-0.0.1.ebuild
+  Bugfix and changes to allow pcscd access card readers as "nobody:pcscd"
+
+*smartcard-readers-0.0.1 (15 Jun 2010)
+
+  15 Jun 2010; Benjamin Morin <clipos@ssi.gouv.fr>
+  +smartcard-readers-0.0.1.ebuild 
+ initial import
